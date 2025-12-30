@@ -10,7 +10,10 @@ This project focuses on understanding Blinkit’s **sales performance, product t
 The dashboard enables stakeholders to quickly identify trends, compare performance across outlets and categories, and make data-driven business decisions.
 
 ---
+Access:https://app.fabric.microsoft.com/view?r=eyJrIjoiMjgxNTlhZTctZjAwZC00MTJkLWExZDAtNjc3MmMyMmZjMDJkIiwidCI6ImQ4MDI5Y2VmLTJhZTEtNDY5Ni1iYWIxLTI4NmU4ZWUxMjQ0ZCJ9
 
+
+---
 ## 🎯 Business Objectives
 - 💰 Track overall sales performance
 - 📈 Analyze year-wise sales trends
