@@ -104,3 +104,9 @@ This dashboard transforms raw sales data into actionable insights, helping busin
 
 ⭐ If you find this project useful, feel free to star the repository!
 
+---
+
+💬 Have questions or feedback?  
+Reach us at **himeshtyagi16@gmail.com**
+
+
